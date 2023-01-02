@@ -1,1 +1,3 @@
 en:
+  site_settings:
+    threefold_auth_enabled: 'Allow users to authenticate using Threefold?'

@@ -1,4 +1,4 @@
 plugins:
-  plugin_name_enabled:
-    default: true
+  threefold_auth_enabled:
     client: true
+    default: true
